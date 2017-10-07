@@ -1,16 +1,10 @@
-cerroGordo
+linDora
 =======
 
-La Dictadura de Salazar escondio piedras
-de calzadas romanas de Portugal en las
-autopistas de Angola ...
+The mission was to drive from Belen
+to Port City Java to get a decent expresso ..
 
-Jonas Savimbi no puede morir, tomo un veneno
-que envenena la muerte ...
+I was writting a netflix clone during the Nasiriya Battle ....
 
-El General Ochoa anda en BTR80 con motor GMC
-le pone gasolina de Libia ..
 
-UNITA de Unity …
-
-[![que no se resistieran, por que sino los mataban ... ](https://raw.githubusercontent.com/rgarro/cerroGordo/master/cerroshot.png)]
+[![que no se resistieran, por que sino los mataban ... ](https://raw.githubusercontent.com/rgarro/linDora/master/lindoPeq.jpeg)]
