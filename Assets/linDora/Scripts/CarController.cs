@@ -2,6 +2,8 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+
+
 public class CarController : MonoBehaviour {
 
 	public WheelCollider[] WColForward;
@@ -19,9 +21,12 @@ public class CarController : MonoBehaviour {
 
 	public Transform COM;
 
-	private WheelData wd;
+
 
 	protected WheelData[] wheels; //8
+	private WheelData wd;
+
+//	protected WheelData[] wheels; //8
 	public Rigidbody rb;
 
 	// Use this for initialization
@@ -34,11 +39,11 @@ public class CarController : MonoBehaviour {
 		wheels = new WheelData[WColForward.Length+WColBack.Length]; //8
 
 		for (int i = 0; i<WColForward.Length; i++){ //9
-			wheels[i] = SetupWheels(wheelsF[i],WColForward[i]); //9
+			//wheels[i] = SetupWheels(wheelsF[i],WColForward[i]); //9
 		}
 
 		for (int i = 0; i<WColBack.Length; i++){ //9
-			wheels[i+WColForward.Length] = SetupWheels(wheelsB[i],WColBack[i]); //9
+			//wheels[i+WColForward.Length] = SetupWheels(wheelsB[i],WColBack[i]); //9
 		}
 	}
 
@@ -76,9 +81,9 @@ public class CarController : MonoBehaviour {
 		float delta = Time.fixedDeltaTime; //12
 
 
-		foreach (WheelData w in wheels){ //13
+		/*foreach (WheelData w in wheels){ //13
 			WheelHit hit; //14
-
+			Debug.Log(w);
 			Vector3 lp = w.wheelTransform.localPosition; //15
 			if(w.col.GetGroundHit(out hit)){ //16
 				lp.y -= Vector3.Dot(w.wheelTransform.position - hit.point, transform.up) - wheelRadius; //17
@@ -91,7 +96,7 @@ public class CarController : MonoBehaviour {
 
 			w.rotation = Mathf.Repeat(w.rotation + delta * w.col.rpm * 360.0f / 60.0f, 360.0f); //20
 			w.wheelTransform.localRotation = Quaternion.Euler(w.rotation, w.col.steerAngle, 90.0f); //21
-		}	
+		}*/	
 
 	}
 
