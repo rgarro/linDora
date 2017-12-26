@@ -46,8 +46,8 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\WheelData.cs" />
      <Compile Include="Assets\linDora\Scripts\CarController.cs" />
-     <Compile Include="Assets\linDora\Scripts\WheelData.cs" />
  <Reference Include="Facebook.Unity.Settings">
  <HintPath>/Users/rolando/Documents/Unity/linDora/Library/FacebookSDK/Facebook.Unity.Settings.dll</HintPath>
  </Reference>
