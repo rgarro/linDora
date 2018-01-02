@@ -1,10 +1,7 @@
 linDora
 =======
 
-Boss, I trade this Huetar magic for a Rusty SurfBoard ...
-I will TDD particles systems of foam to be fishes on the net ...
-The simulation will work on android so it can be played
-above the stingsray fish cave ..
+m1 = 4kg; m2 = 2 kg; R1 = 20 cm; R2 = 60 cm; I = 2 kg· m2; v0 = 0; ω0 = 0; φ = 1 v = 2π rad
 
 [![que no se resistieran, por que sino los mataban ... ](https://raw.githubusercontent.com/rgarro/linDora/master/lindoPeq.jpeg)]
 
