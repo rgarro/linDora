@@ -92,8 +92,8 @@ MonoBehaviour:
     y: 676
     width: 600
     height: 221
-  m_MinSize: {x: 100, y: 100}
-  m_MaxSize: {x: 4000, y: 4000}
+  m_MinSize: {x: 102, y: 121}
+  m_MaxSize: {x: 4002, y: 4021}
   m_ActualView: {fileID: 15}
   m_Panes:
   - {fileID: 14}
@@ -451,7 +451,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: ee240000
     m_LastClickedID: 9454
-    m_ExpandedIDs: 00000000d624000060250000ac25000038260000f6260000282700004a27000034280000c6280000082a00000a2a0000
+    m_ExpandedIDs: 00000000d624000060250000ac25000038260000f6260000282700004a27000034280000c62800000a2a00000c2a0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -479,7 +479,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000d624000060250000ac25000038260000f6260000282700004a27000034280000c6280000082a00000a2a0000
+    m_ExpandedIDs: 00000000d624000060250000ac25000038260000f6260000282700004a27000034280000c62800000a2a00000c2a0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -568,10 +568,10 @@ MonoBehaviour:
   m_ZoomArea:
     m_HRangeLocked: 0
     m_VRangeLocked: 0
-    m_HBaseRangeMin: -512
-    m_HBaseRangeMax: 512
-    m_VBaseRangeMin: -384
-    m_VBaseRangeMax: 384
+    m_HBaseRangeMin: -300
+    m_HBaseRangeMax: 300
+    m_VBaseRangeMin: -512
+    m_VBaseRangeMax: 512
     m_HAllowExceedBaseRangeMin: 1
     m_HAllowExceedBaseRangeMax: 1
     m_VAllowExceedBaseRangeMin: 1
@@ -590,7 +590,7 @@ MonoBehaviour:
       y: 17
       width: 1054
       height: 859
-    m_Scale: {x: 1, y: 1}
+    m_Scale: {x: 0.83886725, y: 0.8388672}
     m_Translation: {x: 527, y: 429.5}
     m_MarginLeft: 0
     m_MarginRight: 0
@@ -598,12 +598,12 @@ MonoBehaviour:
     m_MarginBottom: 0
     m_LastShownAreaInsideMargins:
       serializedVersion: 2
-      x: -527
-      y: -429.5
-      width: 1054
-      height: 859
+      x: -628.22815
+      y: -512
+      width: 1256.4563
+      height: 1024
     m_MinimalGUI: 1
-  m_defaultScale: 1
+  m_defaultScale: 0.8388672
   m_TargetTexture: {fileID: 0}
   m_CurrentColorSpace: 0
   m_LastWindowPixelSize: {x: 1054, y: 876}
@@ -712,8 +712,8 @@ MonoBehaviour:
     height: 605
   m_TreeViewState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 80f7ffff
-    m_LastClickedID: -2176
+    m_SelectedIDs: b0f7ffff
+    m_LastClickedID: -2128
     m_ExpandedIDs: dcfbffff00000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
