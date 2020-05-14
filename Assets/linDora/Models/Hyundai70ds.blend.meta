@@ -1,0 +1,188 @@
+fileFormatVersion: 2
+guid: 02fa7cfe151594570b7e2c7c3a3a6aae
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: BackBranding
+    100002: BackWheelBase
+    100004: Carriage
+    100006: Chasis
+    100008: frontWheelBase
+    100010: //RootNode
+    100012: lbTire
+    100014: leftDirectionalLight
+    100016: leftHeadLight
+    100018: leftTailLight
+    100020: lfTire
+    100022: Mast
+    100024: OverheadGuard
+    100026: rbTire
+    100028: rfTire
+    100030: rightDirectionalLight
+    100032: rightHeadLight
+    100034: rightTailLight
+    400000: BackBranding
+    400002: BackWheelBase
+    400004: Carriage
+    400006: Chasis
+    400008: frontWheelBase
+    400010: //RootNode
+    400012: lbTire
+    400014: leftDirectionalLight
+    400016: leftHeadLight
+    400018: leftTailLight
+    400020: lfTire
+    400022: Mast
+    400024: OverheadGuard
+    400026: rbTire
+    400028: rfTire
+    400030: rightDirectionalLight
+    400032: rightHeadLight
+    400034: rightTailLight
+    2100000: ChasisYellow
+    2100002: Black29
+    2100004: directionalOrange
+    2100006: lightColor
+    2100008: fontColor
+    2100010: tailLightColor
+    2100012: unnamed
+    2300000: BackBranding
+    2300002: BackWheelBase
+    2300004: Carriage
+    2300006: Chasis
+    2300008: frontWheelBase
+    2300010: lbTire
+    2300012: leftDirectionalLight
+    2300014: leftHeadLight
+    2300016: leftTailLight
+    2300018: lfTire
+    2300020: Mast
+    2300022: OverheadGuard
+    2300024: rbTire
+    2300026: rfTire
+    2300028: rightDirectionalLight
+    2300030: rightHeadLight
+    2300032: rightTailLight
+    3300000: BackBranding
+    3300002: BackWheelBase
+    3300004: Carriage
+    3300006: Chasis
+    3300008: frontWheelBase
+    3300010: lbTire
+    3300012: leftDirectionalLight
+    3300014: leftHeadLight
+    3300016: leftTailLight
+    3300018: lfTire
+    3300020: Mast
+    3300022: OverheadGuard
+    3300024: rbTire
+    3300026: rfTire
+    3300028: rightDirectionalLight
+    3300030: rightHeadLight
+    3300032: rightTailLight
+    4300000: frontWheelBase
+    4300002: lfTire
+    4300004: rfTire
+    4300006: BackWheelBase
+    4300008: rbTire
+    4300010: lbTire
+    4300012: rightDirectionalLight
+    4300014: leftDirectionalLight
+    4300016: rightHeadLight
+    4300018: leftHeadLight
+    4300020: BackBranding
+    4300022: leftTailLight
+    4300024: rightTailLight
+    4300026: Mast
+    4300028: Carriage
+    4300030: OverheadGuard
+    4300032: Chasis
+    7400000: Default Take
+    9500000: //RootNode
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
