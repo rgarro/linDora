@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 15
-  productGUID: 00000000000000000000000000000000
+  productGUID: f0ea44a09b3644d07a508f609bce7ef8
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -699,7 +699,7 @@ PlayerSettings:
   apiCompatibilityLevel: 2
   cloudProjectId: f82237f0-2561-4ccd-b03b-ada5087bf138
   framebufferDepthMemorylessMode: 0
-  projectName: 
+  projectName: linDora
   organizationId: emptyart
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
