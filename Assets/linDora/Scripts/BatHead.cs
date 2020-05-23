@@ -20,15 +20,24 @@ using UnityEngine;
 public class BatHead : MonoBehaviour
 {
     public Texture2D soundCloudIcon;
+    protected bool audio_is_on = true;
+    public AudioSource audioData;
     void Start()
     {
-        
+        this.audioData = GetComponent<AudioSource>();
+        this.audioData.Play(0);
     }
 
     void OnGUI(){
         if (GUI.Button (new Rect (10,10, 100, 50), soundCloudIcon)) 
         {
-            print ("you clicked the icon");
+            if(this.audio_is_on){
+                this.audioData.Pause();
+                this.audio_is_on = false;
+            }else{
+                this.audioData.Play(0);
+                this.audio_is_on = true;
+            }
         }
     }
 
