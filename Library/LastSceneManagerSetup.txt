@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/linDora/Scenes/LakeTahoe.unity
+- path: Assets/linDora/Scenes/SalitralWharehouse.unity
   isLoaded: 1
   isActive: 1
