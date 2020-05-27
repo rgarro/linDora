@@ -13,7 +13,7 @@ using UnityEngine;
  *                  ^ ilmk ^c/ )    ( \c^      ^
  *                          'V')_)(_('V'
  * visite la baticueva Llorente del Murcielago ..
- * ya le han dicho si al matrimonio gay y nos han excomulgado en llorente de Torrenueva ...
+ * ya le han dicho si al matrimonio gay y nos han excomulgado a todos...
  *
  * @author Rolando <rgarro@gmail.com>
  */

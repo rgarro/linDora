@@ -517,7 +517,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 400004, guid: 02fa7cfe151594570b7e2c7c3a3a6aae, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 1.23
+      value: 0.42
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 02fa7cfe151594570b7e2c7c3a3a6aae, type: 3}
@@ -539,6 +539,7 @@ GameObject:
   - component: {fileID: 639460967}
   - component: {fileID: 639460966}
   - component: {fileID: 639460965}
+  - component: {fileID: 639460969}
   m_Layer: 0
   m_Name: forkLift
   m_TagString: Untagged
@@ -619,6 +620,20 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 6
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &639460969
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 639460964}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c366d7741e40a4bc9bba0de9af4b1133, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  xGui: 25
+  yGui: 77
 --- !u!1 &966055305
 GameObject:
   m_ObjectHideFlags: 0
