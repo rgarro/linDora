@@ -11,10 +11,7 @@ using UnityEngine;
  * |   \   /     / \          / \  |-( )
  *  =C========C==_| ) |--------| ) _/==] _-{_}_)
  *  \_\_/__..  \_\_/_ \_\_/ \_\_/__.__.
- * -- sheryl crow is a red tara projection I asked her for yellow light ..--
- *      Summon money on my paypal , I'd buy a fishtank and put a blessed tara I have inside
- *        Then mollys and tetras would be circumbalating producing infinite merit. 
- *        Dharmakaya state machines, Artemia Salina bliss, rusty bigcat 8'5 ...
+ * Cada dia el capitalismo se esta haciendo mas fuerte ...
  *
  *@author Rolando<rgarro@gmail.com>
  */
@@ -23,6 +20,9 @@ public class carriageElevator : MonoBehaviour
     private float vSliderValue = 0.0f;
     public int xGui = 25;
     public int yGui = 77;
+    public float carriageGroundLevel;
+    public float carriageTopLevel;
+    public GameObject carriageMesh;
     void Start()
     {
         
@@ -30,8 +30,7 @@ public class carriageElevator : MonoBehaviour
 
     void OnGUI(){
         GUI.Label (new Rect (this.xGui,this.yGui, 100, 30), "Lift Carriage");
-        vSliderValue = GUI.VerticalSlider (new Rect (this.xGui,this.yGui+20, 100, 30), vSliderValue, 10.0f, 0.0f);
-        Debug.Log("Here again....");
+        vSliderValue = GUI.VerticalSlider (new Rect (this.xGui,this.yGui+20, 200, 100), vSliderValue, 10.0f, 0.0f);
         Debug.Log(vSliderValue);
     }
 
