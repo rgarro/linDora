@@ -517,7 +517,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 400004, guid: 02fa7cfe151594570b7e2c7c3a3a6aae, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 1.89
+      value: -1.92
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 02fa7cfe151594570b7e2c7c3a3a6aae, type: 3}
@@ -637,6 +637,7 @@ MonoBehaviour:
   carriageGroundLevel: -2.22
   carriageTopLevel: 1.92
   carriageMesh: {fileID: 1229128613}
+  decimalRatio: -0.222
 --- !u!1 &966055305
 GameObject:
   m_ObjectHideFlags: 0
