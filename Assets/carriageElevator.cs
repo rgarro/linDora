@@ -13,8 +13,6 @@ using UnityEngine;
  *  \_\_/__..  \_\_/_ \_\_/ \_\_/__.__.
  * 
  *   float in the sum R√y 99 red ballons Gobi Vajrayogini 
- *   Taklamakan Lama Chiriquí asper bothrops naga staring swell at the end of the times
- *   rusty big cat foiler fins on a Baikal lake stones bed  paypal http put ...
  *
  *@author Rolando<rgarro@gmail.com>
  */
@@ -38,13 +36,13 @@ public class carriageElevator : MonoBehaviour
         GUI.Label (new Rect (this.xGui,this.yGui, 100, 30), "Lift Carriage");
         lootSliderValue = GUI.VerticalSlider (new Rect (this.xGui,this.yGui+20, 200, 100), lootSliderValue, 10.0f, 0.0f);
         double zPos = (lootSliderValue > 0 )? lootSliderValue*this.decimalRatio:1.92;
-        Debug.Log(zPos);
-        //this.carriageMesh.transform.position = new Vector3((float)1.0595,-17,(float)zPos);
+        float fZPos = (float)zPos;
+        this.carriageMesh.transform.localPosition = new Vector3(this.carriageMesh.transform.localPosition.x,this.carriageMesh.transform.localPosition.y,fZPos);
     }
 
     // Update is called once per frame
     void Update()
     {
-        
+        //will play sound onSlide
     }
 }
