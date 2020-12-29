@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.180284, g: 0.22571434, b: 0.306924, a: 1}
+  m_IndirectSpecularColor: {r: 0.18028334, g: 0.22571336, b: 0.3069219, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -376,6 +376,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Hyundai70ds
       objectReference: {fileID: 0}
+    - target: {fileID: 400004, guid: 02fa7cfe151594570b7e2c7c3a3a6aae, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -17
+      objectReference: {fileID: 0}
+    - target: {fileID: 400004, guid: 02fa7cfe151594570b7e2c7c3a3a6aae, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -1.92
+      objectReference: {fileID: 0}
     - target: {fileID: 400010, guid: 02fa7cfe151594570b7e2c7c3a3a6aae, type: 3}
       propertyPath: m_LocalPosition.x
       value: -0.14252047
@@ -431,14 +439,6 @@ PrefabInstance:
     - target: {fileID: 400010, guid: 02fa7cfe151594570b7e2c7c3a3a6aae, type: 3}
       propertyPath: m_LocalScale.z
       value: 0.6108739
-      objectReference: {fileID: 0}
-    - target: {fileID: 400004, guid: 02fa7cfe151594570b7e2c7c3a3a6aae, type: 3}
-      propertyPath: m_LocalPosition.y
-      value: -17
-      objectReference: {fileID: 0}
-    - target: {fileID: 400004, guid: 02fa7cfe151594570b7e2c7c3a3a6aae, type: 3}
-      propertyPath: m_LocalPosition.z
-      value: -1.92
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 02fa7cfe151594570b7e2c7c3a3a6aae, type: 3}
@@ -699,6 +699,20 @@ GameObject:
     type: 3}
   m_PrefabInstance: {fileID: 523948374}
   m_PrefabAsset: {fileID: 0}
+--- !u!64 &1229128614
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1229128613}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Convex: 0
+  m_CookingOptions: 14
+  m_Mesh: {fileID: 4300028, guid: 02fa7cfe151594570b7e2c7c3a3a6aae, type: 3}
 --- !u!1 &1278583120
 GameObject:
   m_ObjectHideFlags: 0
