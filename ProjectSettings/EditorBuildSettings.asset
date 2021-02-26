@@ -4,4 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/linDora/Scenes/SalitralWharehouse.unity
+    guid: 8758a754485a64e4baa9f5a655e527cd
+  m_configObjects: {}
