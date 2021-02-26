@@ -328,6 +328,10 @@
  <HintPath>C:/Program Files/Unity/Hub/Editor/2018.3.5f1/Editor/Data/MonoBleedingEdge/lib/mono/unity/Boo.Lang.dll</HintPath>
  </Reference>
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="emptyLib.csproj">
+      <Project>{646BCE5B-F1FB-4223-EE21-EABC36836F33}</Project>      <Name>emptyLib</Name>    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
