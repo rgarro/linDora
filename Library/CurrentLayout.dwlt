@@ -73,7 +73,7 @@ MonoBehaviour:
   m_MinSize: {x: 234, y: 498}
   m_MaxSize: {x: 10004, y: 14048}
   vertical: 1
-  controlID: 48
+  controlID: 11
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -275,8 +275,8 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: aa120000
-      m_LastClickedID: 4778
+      m_SelectedIDs: e2300000
+      m_LastClickedID: 0
       m_ExpandedIDs: d4fbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
@@ -374,19 +374,19 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets
+    - Assets/Models
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets
+  - Assets/Models
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\rolando\Documents\Projects\linDora
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: a40a0000
-    m_LastClickedID: 2724
+    m_SelectedIDs: 7a0d0000
+    m_LastClickedID: 3450
     m_ExpandedIDs: 00000000a40a0000340c0000f00c0000fa0c00003c0d0000b00d00002c0e0000fe0e0000100f0000360f0000421000006a100000ca100000d211000028120000c8300000ca300000cc300000ce300000d030000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
