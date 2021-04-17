@@ -928,11 +928,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 400004, guid: 6f1608ad508264e4194c18d665cdfe31, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
-      value: -90.00493
+      value: -90
       objectReference: {fileID: 0}
     - target: {fileID: 400004, guid: 6f1608ad508264e4194c18d665cdfe31, type: 3}
       propertyPath: m_LocalEulerAnglesHint.y
-      value: 148.85728
+      value: -65.01816
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 6f1608ad508264e4194c18d665cdfe31, type: 3}
@@ -1024,6 +1024,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   stateName: turningradar
+  anim: {fileID: 0}
 --- !u!1 &1893816488
 GameObject:
   m_ObjectHideFlags: 0

@@ -10,14 +10,17 @@ public class simpleAnimMotionPlayer : MonoBehaviour
 {
     private Animator arnAnim;
     public string stateName = "turningradar";
+    public Animation anim;
 
     // Start is called before the first frame update
     void Start()
     {
         Debug.Log("here with the animation");
+        Debug.Log(anim);
         this.arnAnim = GetComponent<Animator>();
         //Get the animator clip information from the Animator Controller
-        this.arnAnim.Play(this.stateName);
+        this.arnAnim.ApplyBuiltinRootMotion();
+        this.arnAnim.Play("NewState");
     }
 
     void Update()
@@ -26,9 +29,9 @@ public class simpleAnimMotionPlayer : MonoBehaviour
         {
             if (null != this.arnAnim)
             {
-                Debug.Log(this.stateName);
+                //Debug.Log(this.stateName);
                 Debug.Log(arnAnim);
-                this.arnAnim.Play("turningradar",2);
+                this.arnAnim.Play("NewState");
             }
         }
     }
