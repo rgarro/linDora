@@ -922,6 +922,18 @@ PrefabInstance:
       propertyPath: m_Controller
       value: 
       objectReference: {fileID: 9100000, guid: 8e76e1a26fadbb84187d3d7e8f9c413d, type: 2}
+    - target: {fileID: 9500000, guid: 6f1608ad508264e4194c18d665cdfe31, type: 3}
+      propertyPath: m_ApplyRootMotion
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 400004, guid: 6f1608ad508264e4194c18d665cdfe31, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: -90
+      objectReference: {fileID: 0}
+    - target: {fileID: 400004, guid: 6f1608ad508264e4194c18d665cdfe31, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -37.394215
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 6f1608ad508264e4194c18d665cdfe31, type: 3}
 --- !u!1 &1727997075
@@ -993,6 +1005,25 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 50, y: -30, z: 0}
+--- !u!1 &1820468036 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 100008, guid: 6f1608ad508264e4194c18d665cdfe31,
+    type: 3}
+  m_PrefabInstance: {fileID: 1555015322}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &1820468037
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1820468036}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c091d7ab3c8a6194b8c82ac06d103a7d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  arnAnim: {fileID: 0}
 --- !u!1 &1893816488
 GameObject:
   m_ObjectHideFlags: 0
