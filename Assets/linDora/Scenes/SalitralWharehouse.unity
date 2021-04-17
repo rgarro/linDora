@@ -928,11 +928,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 400004, guid: 6f1608ad508264e4194c18d665cdfe31, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
-      value: -90
+      value: -90.00493
       objectReference: {fileID: 0}
     - target: {fileID: 400004, guid: 6f1608ad508264e4194c18d665cdfe31, type: 3}
       propertyPath: m_LocalEulerAnglesHint.y
-      value: -37.394215
+      value: 148.85728
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 6f1608ad508264e4194c18d665cdfe31, type: 3}
@@ -1023,7 +1023,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c091d7ab3c8a6194b8c82ac06d103a7d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  arnAnim: {fileID: 0}
+  stateName: TurningState
 --- !u!1 &1893816488
 GameObject:
   m_ObjectHideFlags: 0
