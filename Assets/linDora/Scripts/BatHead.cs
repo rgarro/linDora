@@ -22,6 +22,7 @@ public class BatHead : MonoBehaviour
     public Texture2D soundCloudIcon;
     protected bool audio_is_on = true;
     public AudioSource audioData;
+
     void Start()
     {
         this.audioData = GetComponent<AudioSource>();
@@ -29,7 +30,7 @@ public class BatHead : MonoBehaviour
     }
 
     void OnGUI(){
-        if (GUI.Button (new Rect (10,10, 100, 50), soundCloudIcon)) 
+        if (GUI.Button (new Rect (10,10, 55, 50), soundCloudIcon)) 
         {
             if(this.audio_is_on){
                 this.audioData.Pause();
