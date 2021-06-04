@@ -793,7 +793,7 @@ MonoBehaviour:
   FollowIcon: {fileID: 2800000, guid: 24c4cd94fcb94da4aaac507dc84d8b58, type: 3}
   gun_camera: {fileID: 1462719740}
   follow_camera: {fileID: 49968549}
-  boxWidth: 105
+  boxWidth: 119
   boxHeight: 78
   boxY: 10
   buttonWidth: 40
