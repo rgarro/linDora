@@ -303,11 +303,11 @@ WheelCollider:
   m_Center: {x: 0, y: 0, z: 0}
   m_Radius: 0.5
   m_SuspensionSpring:
-    spring: 24999.996
-    damper: 3999.9998
+    spring: 39852.5
+    damper: 6376.4
     targetPosition: 0.5
-  m_SuspensionDistance: 0.19620001
-  m_ForceAppPointDistance: 0.97
+  m_SuspensionDistance: 0.1962
+  m_ForceAppPointDistance: 0.80986965
   m_Mass: 20
   m_WheelDampingRate: 0.25
   m_ForwardFriction:
@@ -842,11 +842,11 @@ WheelCollider:
   m_Center: {x: 0, y: 0, z: 0}
   m_Radius: 0.5
   m_SuspensionSpring:
-    spring: 25000
-    damper: 4000
+    spring: 10675.807
+    damper: 1708.1289
     targetPosition: 0.5
-  m_SuspensionDistance: 0.1962
-  m_ForceAppPointDistance: 0.97
+  m_SuspensionDistance: 0.19619998
+  m_ForceAppPointDistance: 0.80986965
   m_Mass: 20
   m_WheelDampingRate: 0.25
   m_ForwardFriction:
@@ -952,8 +952,8 @@ MeshCollider:
   m_IsTrigger: 0
   m_Enabled: 1
   serializedVersion: 3
-  m_Convex: 0
-  m_CookingOptions: 14
+  m_Convex: 1
+  m_CookingOptions: 0
   m_Mesh: {fileID: 4300028, guid: 02fa7cfe151594570b7e2c7c3a3a6aae, type: 3}
 --- !u!1 &1241405376 stripped
 GameObject:
@@ -1014,11 +1014,11 @@ WheelCollider:
   m_Center: {x: 0, y: 0, z: 0}
   m_Radius: 0.5
   m_SuspensionSpring:
-    spring: 24999.996
-    damper: 3999.9998
+    spring: 10147.503
+    damper: 1623.6005
     targetPosition: 0.5
   m_SuspensionDistance: 0.19620001
-  m_ForceAppPointDistance: 0.97
+  m_ForceAppPointDistance: 0.80986965
   m_Mass: 20
   m_WheelDampingRate: 0.25
   m_ForwardFriction:
@@ -1075,11 +1075,11 @@ WheelCollider:
   m_Center: {x: 0, y: 0, z: 0}
   m_Radius: 0.5
   m_SuspensionSpring:
-    spring: 25000
-    damper: 4000
+    spring: 39324.19
+    damper: 6291.8706
     targetPosition: 0.5
   m_SuspensionDistance: 0.1962
-  m_ForceAppPointDistance: 0.97
+  m_ForceAppPointDistance: 0.80986965
   m_Mass: 20
   m_WheelDampingRate: 0.25
   m_ForwardFriction:
