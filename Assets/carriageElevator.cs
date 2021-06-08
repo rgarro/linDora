@@ -37,6 +37,7 @@ public class carriageElevator : MonoBehaviour
         lootSliderValue = GUI.VerticalSlider (new Rect (this.xGui,this.yGui+20, 200, 100), lootSliderValue, 10.0f, 0.0f);
         double zPos = (lootSliderValue > 0 )? lootSliderValue*this.decimalRatio:1.92;
         float fZPos = (float)zPos;
+        /* will require addForce-> to lift int or float weights , double is the weight of a black tong*/
         this.carriageMesh.transform.localPosition = new Vector3(this.carriageMesh.transform.localPosition.x,this.carriageMesh.transform.localPosition.y,fZPos);
     }
 
