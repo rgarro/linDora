@@ -1310,7 +1310,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   heliPad: {fileID: 60892780}
   rotationSteps: 0.37
-  turnClocwise: 1
+  turnClocwise: 0
 --- !u!114 &1921284858
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1325,7 +1325,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   heliPad: {fileID: 1732424670}
   rotationSteps: 0.37
-  turnClocwise: 0
+  turnClocwise: 1
 --- !u!1 &1937155244
 GameObject:
   m_ObjectHideFlags: 0
