@@ -27,6 +27,8 @@ public class carriageElevator : MonoBehaviour
     
     public double decimalRatio = -0.222;//Larry and Curly split the loot in the ratio 3:7.
 
+    private float liftingForce = 100f;//waiting kinematic rigidbody
+
     void Start()
     {
         
