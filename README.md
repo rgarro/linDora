@@ -13,3 +13,6 @@ Buy Me a Beer, Starbucks Expresso or send a cheese burguer ... [Paypal](https://
 
 
 [![que no se resistieran, por que sino los mataban ... ](https://raw.githubusercontent.com/rgarro/linDora/master/lindora.png)]
+
+Banco Nacional de Costa Rica , year 3030 ...
+[![que no se resistieran, por que sino los mataban ... ](https://raw.githubusercontent.com/rgarro/linDora/master/lindorab.png)]
