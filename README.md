@@ -28,4 +28,4 @@ Transformations at the sketch site:
 [![que no se resistieran, por que sino los mataban ... ](https://raw.githubusercontent.com/rgarro/linDora/master/skate.png)]
 
 osea que si el tanque mato gente, entonces el forklift monto patinetos y en un SkateShop en Plaza escazu y otra tiendita de skate en Santa Ana vendieron unas 42 patinetas en 11 meses, mas las que compraron en secreto los senores mayores del barrio y los del templo cristiano son como 128 patinetas vendidas que pasaron por la rampa en lindora que inspiro esta escena.
-Lagos de Lindora era un parque de picnic donde se pagaba entrada en 1978, tenia laguna y piscina y tanques de guerra.
+Lagos de Lindora era un parque de picnic donde se pagaba entrada en 1978, tenia laguna y piscina y tanques de guerra de origen desconocido o son estatuas que delatan de violadores pervertidos a los habitantes de salitral, escazu, santana, ciudad colon y puriscal. Violadores y Pervertidos de lujurias con caldos de serpientes atacan en bailes y fiestas a las damas.
