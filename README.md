@@ -21,10 +21,11 @@ Buy Me a Beer, Starbucks Expresso or send a cheese burguer ... [Paypal](https://
 Banco Nacional de Costa Rica , year 3030, lifting energon cubes exponentially paying tribute to the decepticons  ...
 [![que no se resistieran, por que sino los mataban ... ](https://raw.githubusercontent.com/rgarro/linDora/master/lindorab.png)]
 
-This Microgame started one evening I was driving with no direction , chet baker was playing on the radio , I stopped at this place somewhere in Lindora, drinking a RedBull and lighting a Jamaiquina Joint feeling very sorrow Zintan Brigades Toyotas defeated the Malians ukranian howitzers, wishing colonel kaddafi have reached MacOnDo(). 
+The Original Project Sketch :
 [![que no se resistieran, por que sino los mataban ... ](https://raw.githubusercontent.com/rgarro/linDora/master/monumento002.jpg)]
 
-Theres a lot of Hachis in Gao, where the prophet footprints are kept in a Mosque, the rolling thunder angel blessed this place, I found that a day a Saudi girl smiled on me while a Hawk landed in the road sign somewhere far ago from there. 
+Transformations at the sketch site:
 [![que no se resistieran, por que sino los mataban ... ](https://raw.githubusercontent.com/rgarro/linDora/master/skate.png)]
 
-fucking Microsoft didnt pay anything for using Unity3D ...
+osea que si el tanque mato gente, entonces el forklift monto patinetos y en un SkateShop en Plaza escazu y otra tiendita de skate en Santa Ana vendieron unas 42 patinetas en 11 meses, mas las que compraron en secreto los senores mayores del barrio y los del templo cristiano son como 128 patinetas vendidas que pasaron por la rampa en lindora que inspiro esta escena.
+Lagos de Lindora era un parque de picnic donde se pagaba entrada en 1978, tenia laguna y piscina y tanques de guerra.
