@@ -7,9 +7,11 @@ Lifting energon cubes exponentially to pay tribute to the decepticons  ...
 
 Project Snapshop Unity Play: https://play.unity.com/en/games/85aedc77-73f9-4a7c-bbdd-da5df0115128/lindora-forklift-pre2b
 
-http://lindora-pre1.s3-website.eu-west-2.amazonaws.com/
+Older Version: http://lindora-pre1.s3-website.eu-west-2.amazonaws.com/
 
 RedWall Dub Music Loop: https://soundcloud.com/dorje-trolo/redwalldub
+
+Download Hyundai 70 DS Forklift Model: https://sketchfab.com/3d-models/hyundai-70-ds-forklift-cfaa8fcb04b343e787d87b8eff5aa499
 
 Buy Me a Beer, Starbucks Expresso or send a cheese burguer ... [Paypal](https://www.paypal.me/gospelOfLuke/25).
 
