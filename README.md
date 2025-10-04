@@ -13,10 +13,13 @@ RedWall Dub Music Loop: https://soundcloud.com/dorje-trolo/redwalldub
 
 Download Hyundai 70 DS Forklift Model: https://sketchfab.com/3d-models/hyundai-70-ds-forklift-cfaa8fcb04b343e787d87b8eff5aa499
 
-Buy Me a Beer, Starbucks Expresso or send a cheese burguer ... [Paypal](https://www.paypal.me/gospelOfLuke/25).
+Did you like it? send me funds,help me to pay my MIT major ... ... [Paypal](https://www.paypal.me/gospelOfLuke/25).
 
 
-[![que no se resistieran, por que sino los mataban ... ](https://raw.githubusercontent.com/rgarro/linDora/master/lindora.png)]
+[![nrthkorean hyunday ... ](https://raw.githubusercontent.com/rgarro/linDora/master/lindora.png)]
+
+[![cakePHP gig ... ](https://raw.githubusercontent.com/rgarro/linDora/master/tartan.PNG)]
+
 
 Banco Nacional de Costa Rica , year 3030, lifting energon cubes exponentially paying tribute to the decepticons  ...
 [![que no se resistieran, por que sino los mataban ... ](https://raw.githubusercontent.com/rgarro/linDora/master/lindorab.png)]
